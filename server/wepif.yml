@@ -42,7 +42,7 @@ permissions:
             permissions:
             - '*'
     users:
-        sk89q:
+        kylecrane:
             permissions:
             - worldedit
             groups:

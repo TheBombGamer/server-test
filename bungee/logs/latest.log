@@ -48,3 +48,16 @@
 [19:30:17] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [19:30:17] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [19:30:18] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/server-test/bungee/plugins/EaglercraftXBungee/eagcert/$dl.6a314f63448f669bee13950455200751edda2564.cert
+[19:34:59] [Netty Worker IO Thread #7/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/server-test/bungee/server-icon.png
+[19:35:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54256]: Connected via websocket
+[19:35:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54256]: Origin header is http://localhost:8081
+[19:35:15] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53764]: Connected via websocket
+[19:35:15] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53764]: Origin header is http://localhost:8081
+[19:43:35] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41292]: Connected via websocket
+[19:43:35] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41292]: Origin header is http://localhost:8081
+[19:45:03] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32956]: Connected via websocket
+[19:45:03] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32956]: Origin header is http://localhost:8081
+[19:47:29] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36054]: Connected via websocket
+[19:47:29] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36054]: Origin header is https://localhost:8081
+[19:55:21] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38234]: Connected via websocket
+[19:55:21] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38234]: Origin header is https://localhost:8081
