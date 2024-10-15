@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "150bac87-6347-42c3-abff-d2d36cdc1810",
+    "name": "KyleCrane",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

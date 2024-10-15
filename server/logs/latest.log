@@ -262,3 +262,256 @@ Caused by: java.lang.ClassNotFoundException: net.md_5.bungee.api.plugin.Plugin
 
 [21:46:17] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[21:55:46] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:55:50] [Server thread/INFO]: [0;33;1m----------[m Help: page 1/6  [0;33;1m--------------------[m[m
+
+[21:55:50] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m//: [mToggle the super pickaxe function[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m/.s: [mExecute last CraftScript[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m/ascend: [mGo up a floor[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m/biomeinfo: [mGet the biome of the targeted block.[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m/biomelist: [mGets all biomes available.[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m/brush: [mBrushing commands[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m/butcher: [mKill all or nearby mobs[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m//calc: [mEvaluate a mathematical expression[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m/ceil: [mGo to the celing[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m//center: [mSet the center block(s)[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m//chunk: [mSet the selection to your current chunk.[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m/chunkinfo: [mGet information about the chunk that you are inside[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m/clearclipboard: [mClear your clipboard[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m//clearhistory: [mClear your history[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m//contract: [mContract the selection area[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m//copy: [mCopy the selection to the clipboard[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m//count: [mCounts the number of a certain type of block[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m/cs: [mExecute a CraftScript[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m//curve: [mDraws a spline through selected points[m
+
+[21:55:50] [Server thread/INFO]: [0;33;22m//cut: [mCut the selection to the clipboard[m
+
+[21:56:23] [Server thread/INFO]: [0;33;1m----------[m Help: page 2/6  [0;33;1m--------------------[m[m
+
+[21:56:23] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m/cycler: [mBlock data cycler tool[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//cyl: [mGenerates a cylinder.[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//deform: [mDeforms a selected region with an expression[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m/delchunks: [mDelete chunks that your selection includes[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m/deltree: [mFloating tree remover tool[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m/descend: [mGo down a floor[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//distr: [mGet the distribution of blocks in the selection[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//drain: [mDrain a pool[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//ex: [mExtinguish nearby fire[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//expand: [mExpand the selection area[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//faces: [mBuild the walls, ceiling, and floor of a selection[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m/farwand: [mWand at a distance tool[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//fast: [mToggle fast mode[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//fill: [mFill a hole[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//fillr: [mFill a hole recursively[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//fixlava: [mFix lava to be stationary[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//fixwater: [mFix water to be stationary[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//flip: [mFlip the contents of the clipboard[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m/floodfill: [mFlood fill tool[m
+
+[21:56:23] [Server thread/INFO]: [0;33;22m//flora: [mMake flora within the region[m
+
+[21:56:43] [Server thread/INFO]: [0;33;1m----------[m Help: page 3/6  [0;33;1m--------------------[m[m
+
+[21:56:43] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//forest: [mMake a forest within the region[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m/forestgen: [mGenerate a forest[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//generate: [mGenerates a shape according to a formula.[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//generatebiome: [mSets biome according to a formula.[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//gmask: [mSet the global mask[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//green: [mGreens the area[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//hcyl: [mGenerates a hollow cylinder.[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//help: [mDisplays help for WorldEdit commands[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//hollow: [mHollows out the object contained in this selection[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//hpos1: [mSet position 1 to targeted block[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//hpos2: [mSet position 2 to targeted block[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//hpyramid: [mGenerate a hollow pyramid[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//hsphere: [mGenerates a hollow sphere.[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m/info: [mBlock information tool[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//inset: [mInset the selection area[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m/jumpto: [mTeleport to a location[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//limit: [mModify block change limit[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//line: [mDraws a line segment between cuboid selection corners[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m/listchunks: [mList chunks that your selection includes[m
+
+[21:56:43] [Server thread/INFO]: [0;33;22m//load: [mLoad a schematic into your clipboard[m
+
+[21:57:01] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:57:08] [Server thread/INFO]: [0;33;1m----------[m Help: page 4/6  [0;33;1m--------------------[m[m
+
+[21:57:08] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m/lrbuild: [mLong-range building tool[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m/mask: [mSet the brush mask[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m/mat: [mSet the brush material[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//move: [mMove the contents of the selection[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//naturalize: [m3 layers of dirt on top then rock below[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m/none: [mUnbind a bound tool from your current item[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//outset: [mOutset the selection area[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//overlay: [mSet a block on top of blocks in the region[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//paste: [mPaste the clipboard's contents[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//pos1: [mSet position 1[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//pos2: [mSet position 2[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m/pumpkins: [mGenerate pumpkin patches[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//pyramid: [mGenerate a filled pyramid[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m/range: [mSet the brush range[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//redo: [mRedoes the last action (from history)[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//regen: [mRegenerates the contents of the selection[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m/remove: [mRemove all entities of a type[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//removeabove: [mRemove blocks above your head.[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//removebelow: [mRemove blocks below you.[m
+
+[21:57:08] [Server thread/INFO]: [0;33;22m//removenear: [mRemove blocks near you.[m
+
+[21:57:27] [Server thread/INFO]: [0;33;1m----------[m Help: page 5/6  [0;33;1m--------------------[m[m
+
+[21:57:27] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m/repl: [mBlock replacer tool[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//replace: [mReplace all blocks in the selection with another[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//replacenear: [mReplace nearby blocks[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m/restore: [mRestore the selection from a snapshot[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//rotate: [mRotate the contents of the clipboard[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//save: [mSave a schematic into your clipboard[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m/schematic: [mSchematic commands for saving/loading areas[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//searchitem: [mSearch for an item[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//sel: [mChoose a region selector[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//set: [mSet all the blocks inside the selection to a block[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//setbiome: [mSets the biome of the player's current block or region.[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//shift: [mShift the selection area[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m/size: [mSet the brush size[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//size: [mGet information about the selection[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//smooth: [mSmooth the elevation in the selection[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m/snapshot: [mSchematic commands for saving/loading areas[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//snow: [mSimulates snow[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//sphere: [mGenerates a filled sphere.[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m//stack: [mRepeat the contents of the selection[m
+
+[21:57:27] [Server thread/INFO]: [0;33;22m/superpickaxe: [mSuper-pickaxe commands[m
+
+[21:57:40] [Server thread/INFO]: [0;33;1m----------[m Help: page 6/6  [0;33;1m--------------------[m[m
+
+[21:57:40] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m//thaw: [mThaws the area[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m/thru: [mPassthrough walls[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m/toggleeditwand: [mToggle functionality of the edit wand[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m//toggleplace: [mSwitch between your position and pos1 for placement[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m/tool: [mBind functions to held items[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m/tree: [mTree generator tool[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m//undo: [mUndoes the last action[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m/unstuck: [mEscape from being stuck inside a block[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m/up: [mGo upwards some distance[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m//walls: [mBuild the four sides of the selection[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m//wand: [mGet the wand object[m
+
+[21:57:40] [Server thread/INFO]: [0;33;22m/worldedit: [mWorldEdit commands[m
+
+[21:58:00] [Server thread/INFO]: Opped kylecrane
